@@ -23,7 +23,7 @@ const projects = [
         description:
             "The site you're looking at — built with React and Tailwind, featuring dark mode and animations.",
         tech: ["React", "Tailwind", "Dark Mode"],
-        github: "https://github.com/Bhuwanthapa47/portfolio",
+        github: "https://github.com/Bhuwanthapa47/bhuwan-portfolio",
         demo: "#",
     },
 ];
