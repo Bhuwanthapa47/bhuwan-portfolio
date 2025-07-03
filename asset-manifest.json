@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bhuwan-portfolio/static/css/main.449454b3.css",
+    "main.js": "/bhuwan-portfolio/static/js/main.93325d89.js",
+    "static/js/453.62e5add7.chunk.js": "/bhuwan-portfolio/static/js/453.62e5add7.chunk.js",
+    "index.html": "/bhuwan-portfolio/index.html",
+    "main.449454b3.css.map": "/bhuwan-portfolio/static/css/main.449454b3.css.map",
+    "main.93325d89.js.map": "/bhuwan-portfolio/static/js/main.93325d89.js.map",
+    "453.62e5add7.chunk.js.map": "/bhuwan-portfolio/static/js/453.62e5add7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.449454b3.css",
+    "static/js/main.93325d89.js"
+  ]
+}
