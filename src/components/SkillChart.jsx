@@ -6,11 +6,61 @@ ChartJS.register(ArcElement, Tooltip, Legend);
 
 const SkillsChart = () => {
     const data = {
-        labels: ["React", "Spring Boot", "Java", "MySQL", "Tailwind", "Thymeleaf"],
+        labels: [
+            "Java",
+            "Spring Boot",
+            "Hibernate",
+            "JPA",
+            "MySQL",
+            "MongoDB",
+            "REST API",
+            "Spring Security",
+            "Thymeleaf",
+            "React",
+            "Tailwind CSS",
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "Python",
+            "Machine Learning",
+            "Data Science",
+            "Pandas",
+            "NumPy",
+            "scikit-learn",
+            "iText (PDF Generation)",
+            "Git",
+            "Postman",
+            "Maven",
+        ],
         datasets: [
             {
                 label: "Tech Stack",
-                data: [20, 20, 20, 15, 15, 10],
+                data: [
+                    20, // Java
+                    20, // Spring Boot
+                    18, // Hibernate
+                    18, // JPA
+                    17, // MySQL
+                    15, // MongoDB
+                    19, // REST API
+                    17, // Spring Security
+                    16, // Thymeleaf
+                    18, // React
+                    16, // Tailwind CSS
+                    19, // HTML5
+                    18, // CSS3
+                    18, // JavaScript
+                    15, // Python
+                    14, // Machine Learning
+                    14, // Data Science
+                    15, // Pandas
+                    15, // NumPy
+                    14, // scikit-learn
+                    16, // iText
+                    19, // Git
+                    17, // Postman
+                    16, // Maven
+                ],
                 backgroundColor: [
                     "#3b82f6",
                     "#22c55e",
@@ -18,11 +68,31 @@ const SkillsChart = () => {
                     "#8b5cf6",
                     "#06b6d4",
                     "#f43f5e",
+                    "#ec4899",
+                    "#f97316",
+                    "#14b8a6",
+                    "#6366f1",
+                    "#10b981",
+                    "#facc15",
+                    "#db2777",
+                    "#60a5fa",
+                    "#a78bfa",
+                    "#f87171",
+                    "#34d399",
+                    "#fbbf24",
+                    "#6366f1",
+                    "#f472b6",
+                    "#22d3ee",
+                    "#f59e0b",
+                    "#3b82f6",
+                    "#f43f5e",
                 ],
-                borderWidth: 0, // removed white border
+                borderWidth: 0,
             },
         ],
     };
+};
+
 
     const options = {
         responsive: true,

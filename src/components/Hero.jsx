@@ -27,6 +27,8 @@ const Hero = () => {
                     <ReactTyped
                         strings={[
                             "Full-Stack Developer",
+                            "AI/ML Enthusiast",
+                            "Curious Technologist 🤖",
                             "Spring Boot Enthusiast",
                             "React & Tailwind Builder",
                             "Code + Coffee = ❤️",

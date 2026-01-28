@@ -22,7 +22,7 @@ const Contact = () => {
                     <FaGithub />
                 </a>
                 <a
-                    href="https://www.linkedin.com/in/bhuwan-thapa-218583223/our-linkedin" // <-- Replace with your actual LinkedIn
+                    href="https://linkedin.com/in/bhuwanthapa47" // <-- Replace with your actual LinkedIn
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-blue-700 hover:text-blue-900 dark:text-blue-400 transition"

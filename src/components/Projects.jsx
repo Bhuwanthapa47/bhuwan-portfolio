@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 
 const projects = [
     {
-        title: "Invoice System",
+        title: "Invoice Processing System with PDF Generation",
         description:
             "A full-stack Spring Boot invoice management system with PDF export, email, and user roles.",
         tech: ["Spring Boot", "Thymeleaf", "MySQL", "Tailwind"],
@@ -11,12 +11,12 @@ const projects = [
         demo: "#",
     },
     {
-        title: "Quote Reels IG Page",
+        title: "Doubt Solver App",
         description:
-            "An Instagram content project where I post reels with quotes and aesthetics.",
-        tech: ["Instagram", "Reels", "Quotes", "Content"],
-        github: "https://instagram.com/instareelmode",
-        demo: "https://instagram.com/instareelmode",
+            "A modern platform connecting students and mentors for instant doubt resolution. Users can ask questions and get answers from mentors, with AI-powered suggestions enhancing the experience.",
+        tech: ["Java", "Spring Boot", "Thymeleaf", "MySQL", "Bootstrap", "Spring Security"],
+        github: "https://github.com/Bhuwanthapa47/Doubt_Solver_app",
+        demo: "#",
     },
     {
         title: "Portfolio Site",
@@ -24,6 +24,38 @@ const projects = [
             "The site you're looking at — built with React and Tailwind, featuring dark mode and animations.",
         tech: ["React", "Tailwind", "Dark Mode"],
         github: "https://github.com/Bhuwanthapa47/bhuwan-portfolio",
+        demo: "#",
+    },
+    {
+        title: "BookStore Management System ",
+        description:
+            "An internship project to manage books, including CRUD operations, pagination, search functionality, and role-based access (Admin & User).",
+        tech: ["Java", "Spring Boot", "MySQL", "Spring Security", "REST APIs", "Thymeleaf"],
+        github: "https://github.com/Bhuwanthapa47/BookStore_Management_System",
+        demo: "#",
+    },
+    {
+        title: "Movie Recommendation System ",
+        description:
+            "Content-based movie recommendation engine using the IMDB dataset. Uses TF-IDF vectorization and cosine similarity to suggest movies similar to user input.",
+        tech: ["Python", "Pandas", "scikit-learn", "Jupyter Notebook"],
+        github: "https://github.com/Bhuwanthapa47/IMDB-Movies-Dataset-Recommendation-Engine",
+        demo: "#",
+    },
+    {
+        title: "Hate Speech Detection System",
+        description:
+            "ML project for classifying text as hate speech or non-hate speech. Includes data preprocessing, model training, and evaluation.",
+        tech: ["Python", "Pandas", "scikit-learn", "NLP techniques"],
+        github: "https://github.com/Bhuwanthapa47/Hate_Speach_Detection_ML_Project",
+        demo: "#",
+    },
+    {
+        title: "Student Exam Performance Indicator",
+        description:
+            "ML project that predicts student performance based on historical exam data. Helps identify students needing extra attention.",
+        tech: ["Python", "Pandas", "scikit-learn", "Data Analysis"],
+        github: "https://github.com/Bhuwanthapa47/MachineLearningProject",
         demo: "#",
     },
 ];

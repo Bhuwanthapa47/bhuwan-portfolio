@@ -19,7 +19,7 @@ const Footer = () => {
                     <FaGithub />
                 </a>
                 <a
-                    href="https://https://www.linkedin.com/in/bhuwan-thapa-218583223/"
+                    href="https://linkedin.com/in/bhuwanthapa47"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-blue-600 dark:hover:text-blue-300"
@@ -27,7 +27,7 @@ const Footer = () => {
                     <FaLinkedin />
                 </a>
                 <a
-                    href="https://instagram.com/47_bhuvan"
+                    href="https://www.instagram.com/unfiltered.bhuvan/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-pink-500 dark:hover:text-pink-300"
